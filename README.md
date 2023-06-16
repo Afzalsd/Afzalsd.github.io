@@ -1,2 +1,2 @@
-# afzal.github.io
+# Afzalsd.github.io
 Afzal's repository
